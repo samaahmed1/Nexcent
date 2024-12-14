@@ -1,0 +1,113 @@
+# CSS Variables
+:root {
+  --main-color: #4caf4f;
+  --text-color: #717171;
+  --title-color: #4d4d4d;
+  --black: #000000;
+  --white: #ffffff;
+  --bg-alt: #f5f7fa;
+  --bg: #263238;
+  --h1-size: 40px;
+  --h2-size: 36px;
+  --section-padding: 40px;
+}
+# Container Media Query
+.container {
+  padding: 0 15px;
+  margin: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+# Text
+
+Lessons and insights
+from 8 years
+Where to grow your business as a photographer: site or social media?
+
+Our Clients
+We have been working with some Fortune 500+ clients
+
+Manage your entire community
+in a single system
+Who is Nextcent suitable for?
+
+Membership Organisations
+Our membership management software provides full automation of membership renewals and payments 
+
+National Associations
+Our membership management software provides full automation of membership renewals and payments
+
+Clubs And Groups
+Our membership management software provides full automation of membership renewals and payments
+
+The unseen of spending three years at Pixelgrade
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.
+
+Helping a local business reinvent itself
+We reached here with our hard work and dedication
+
+2,245,341
+Members
+
+46,328
+Clubs
+
+828,867
+Event Bookings
+
+1,926,436
+Payments
+
+How to design your site footer like we did
+Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa. Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+
+Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu enim metus. Vivamus sed libero ornare, tristique quam in, gravida enim. Nullam ut molestie arcu, at hendrerit elit. Morbi laoreet elit at ligula molestie, nec molestie mi blandit. Suspendisse cursus tellus sed augue ultrices, quis tristique nulla sodales. Suspendisse eget lorem eu turpis vestibulum pretium. Suspendisse potenti. Quisque malesuada enim sapien, vitae placerat ante feugiat eget. Quisque vulputate odio neque, eget efficitur libero condimentum id. Curabitur id nibh id sem dignissim finibus ac sit amet magna.
+
+Tim Smith
+British Dragon Boat Racing Association
+Meet all customers
+
+Caring is the new marketing
+The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.​
+
+Creating Streamlined Safeguarding Processes with OneRen
+Readmore
+
+What are your safeguarding responsibilities and how can you manage them?
+
+Revamping the Membership Model with Triathlon Australia
+
+Pellentesque suscipit fringilla libero eu.
+
+Copyright © 2020 Nexcent ltd.
+All rights reserved
+
+Company
+About us
+Blog
+Contact us
+Pricing
+Testimonials
+
+Support
+Help center
+Terms of service
+Legal
+Privacy policy
+Status
+
+Stay up to date
